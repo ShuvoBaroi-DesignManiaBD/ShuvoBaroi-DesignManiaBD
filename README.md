@@ -1,3 +1,5 @@
+<img title="github-profile-of-shuvo-baroi" src="https://raw.githubusercontent.com/ShuvoBaroi-DesignManiaBD/ShuvoBaroi-DesignManiaBD/refs/heads/main/assets/Javascript-Frameworks-Banner02.webp"/>
+
 # 💫 About Me:
 👋 Hi, I'm Shuvo Baroi, a passionate Full-Stack Developer with expertise in JavaScript, TypeScript, React, Node.js, Next.js, MongoDB, Prisma, SQL, and more. My journey began in 2021 with UI/UX design and WordPress freelancing, and I’ve since grown into a Top-Rated Freelancer specializing in scalable frontend, backend, and DevOps solutions. I’m dedicated to creating seamless user experiences and robust applications while continuously learning and staying ahead in the tech world. Let’s connect and build something amazing together!
 
@@ -27,3 +29,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ShuvoBaroi-DesignManiaBD&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
